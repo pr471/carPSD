@@ -1,0 +1,33 @@
+* {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+body{
+    background-color: #000000;
+}
+
+.divider{
+    width: 90%;
+    display: block;
+    border: 1px inset lightslategrey;
+    margin: 0 auto !important;
+
+}
+.divider-2{
+    width: 200px;
+    display: block;
+    border: 2px inset #ff253a;
+    margin: 0 auto !important;
+
+}
+.divider-3{
+    width: 90px;
+    display: block;
+    border: 2px solid #ff253a;
+    border-radius: 20px;
+    margin-top: 5px !important;
+
+}
+
+
